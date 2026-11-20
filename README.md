@@ -318,8 +318,8 @@ Contributed to event planning, leadership, public speaking, and community engage
 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Rajendran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Rajendran&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
